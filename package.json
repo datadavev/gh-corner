@@ -1,9 +1,9 @@
 {
-  "name": "gh-corner",
-  "description": "Webcomponent gh-corner following open-wc recommendations",
+  "name": "gh-corner-wc",
+  "description": "Webcomponent gh-corner following open-wc recommendations, wraps github.com/tholman/github-corners",
   "license": "MIT",
-  "author": "gh-corner",
-  "version": "0.0.0",
+  "author": "datadavev",
+  "version": "0.0.2",
   "main": "index.js",
   "module": "index.js",
   "scripts": {

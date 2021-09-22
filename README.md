@@ -22,6 +22,13 @@ npm i gh-corner
 
 <gh-corner user="USERNAME" repo="REPOSITORY" position="left|right"></gh-corner>
 ```
+or using a CDN:
+```html
+<script type="module" src="https://unpkg.com/gh-corner-wc/gh-corner.js?module">
+</script>
+
+<gh-corner user="USERNAME" repo="REPOSITORY" position="left|right"></gh-corner>
+```
 
 
 ## Linting and formatting
