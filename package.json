@@ -6,6 +6,11 @@
   "version": "0.0.2",
   "main": "index.js",
   "module": "index.js",
+  "exports": {
+    ".": {
+      "default": "./index.js"
+    }
+  },
   "scripts": {
     "analyze": "cem analyze --litelement",
     "start": "web-dev-server",
